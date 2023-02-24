@@ -11,7 +11,7 @@ sudo apt-get install -y git curl dbus font-manager
 
 # snap packages
 sudo snap refresh
-sudo snap install discord firefox inkscape sublime-text gimp keepassxc
+sudo snap install vlc discord firefox inkscape sublime-text gimp keepassxc
 
 # sublime text 3 package control
 sudo wget -P "/.config/sublime-text/Installed Packages" "https://packagecontrol.io/Package%20Control.sublime-package"
